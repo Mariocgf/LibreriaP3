@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\source\\repos\\Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\mario\\source\\repos\\libreria\\logicanegocio\\entidades\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\mario\\source\\repos\\libreria\\logicanegocio\\entidades\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\mario\\source\\repos\\libreria\\logicanegocio\\entidades\\valoracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\valoracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\mario\\source\\repos\\libreria\\logicanegocio\\entidades\\tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\tema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\mario\\source\\repos\\libreria\\logicanegocio\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\mario\\source\\repos\\libreria\\logicanegocio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\mario\\source\\repos\\libreria\\logicanegocio\\entidades\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\mario\\source\\repos\\libreria\\logicanegocio\\entidades\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5263217B-9E53-4E88-8E0B-F2FAE5FD0A25}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\editorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Revista.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Revista.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Revista.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Revista.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\Revista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:00:09.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Valoracion.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Valoracion.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Valoracion.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Valoracion.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\Valoracion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:58:01.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Publicacion.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Publicacion.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Publicacion.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Publicacion.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\Publicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:51:49.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tema.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Tema.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Tema.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Tema.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\Tema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:49:22.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Editorial.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Editorial.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Editorial.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Editorial.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\Editorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:47:36.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Pais.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Pais.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Pais.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\Pais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:38:20.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:36:58.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Autor.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Autor.cs",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Libreria\\LogicaNegocio\\Entidades\\Autor.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\Autor.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T23:34:45.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
